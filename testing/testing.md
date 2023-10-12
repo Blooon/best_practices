@@ -1,4 +1,6 @@
-﻿# **Tests**
+﻿[< Back to README](../README.md)
+
+# **Tests**
 
 [A simple component is simple to test](#a-simple-component-is-simple-to-test)
 

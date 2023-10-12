@@ -1,4 +1,6 @@
-﻿# **TypeScript**
+﻿[< Back to README](../README.md)
+
+# **TypeScript**
 
 [Guidelines](#guidelines)
 

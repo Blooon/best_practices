@@ -8,6 +8,6 @@ Compilation of React Frontend Development best practices
 
 [React](/react/react.md)
 
-[Testing](/testing/testing.md.md)
+[Testing](/testing/testing.md)
 
 [TypeScript](/typescript/typescripts.md)
